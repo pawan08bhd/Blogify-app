@@ -24,7 +24,7 @@ State & Auth: JWT for sessions and Context API for managing state.
 Clone it:
 
 Bash
-git clone https://github.com/yourusername/blog-app.git
+git clonehttps://github.com/pawan08bhd/Blogify-app.git
 Set up the environment: Create a .env file in the root and add your MONGO_URI and JWT_SECRET.
 
 Install & Run:
